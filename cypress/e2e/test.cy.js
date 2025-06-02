@@ -21,4 +21,5 @@ describe('Customer Banking Flow - Harry Potter',()=>{
         customerPage.clickTransactionsButton()  
         transactionsPage.transactionsSumCheck(115)
     })
+    
 })
